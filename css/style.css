@@ -311,3 +311,9 @@ span {
 list-style-type: square !important;
 }
 
+.initiative {
+    border-left: 2px solid var(--main-text-color);
+    border-right: 2px solid var(--main-text-color);
+    border-radius: 9999px;
+    background-color: var(--main-color);
+}

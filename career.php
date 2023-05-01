@@ -37,7 +37,7 @@ to date)
                 <li>Sales Assistant, UTC Hardware Dept. Broad Street, Lagos. <span>(1981 – 1982)</span></li>
             </ol>
             <div id="career-img-wrapper">
-                <img src="images/career.jpg" alt="Career Profile Image" id="career-img" class="materialboxed">
+                <img src="images/career-image.jpg" alt="Career Profile Image" id="career-img" class="materialboxed">
             </div>
             <h5>Courses Taught or Co-taught at Undergraduate and Graduate Levels</h5>
             <table class="striped">

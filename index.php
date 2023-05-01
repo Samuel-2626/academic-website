@@ -94,7 +94,7 @@
                 <div class="col s12 m6 l4">
                 <div class="card">
                     <div class="card-image">
-                    <img src="images/conferences.jpg" alt="Conferences">
+                    <img src="images/conference-image-1.jpg" alt="Conferences">
                     <span class="card-title">Conferences</span>
                     <a class="btn-floating halfway-fab waves-effect waves-light" style="background-color: #183a1d;" href="conferences.php"><i class="material-icons" style="color: #fefbe9;">add</i></a>
                     </div>
@@ -161,24 +161,23 @@
            <br>
            <br>
             <div class="row center">
-                <div class="col s6 m4">
+                <div class="col s6 m4 initiative" style="margin-bottom: 13px;">
             <a href="https://cyiapnetwork.org/" target="blank"><img src="images/cyiapnetwork.jpg" alt="CYIAP network" class="fourth-section__img circle"></a>
-            <p class="fourth-section__text">Children and Youth in Agriculture Programme in Nigeria (CYIAP- Network)</p>
-            <br>
+            <p class="fourth-section__text">Children and Youth in Agriculture Programme in Nigeria</p>
+         
             </div>
-            <div class="col s6 m4">
+            <div class="col s6 m4 initiative" style="margin-bottom: 13px;">
             <a href="https://shekelsfieldnig.com/" target="blank"><img src="images/shekelsfieldnig.jpg" alt="Shekelsfield Nigeria Limited" class="fourth-section__img"></a>
             <p class="fourth-section__text">Shekelsfield Nigeria Limited</p>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
+         <br>
+         <br>
             </div>
             
-            <div class="col s6 m4">
+            <div class="col s6 m4 initiative" style="margin-bottom: 13px;">
             <a href="http://acrye-ng.org" target="blank"><img src="images/acrye.png" alt="Africa Center for Rural Youth Empowerment" class="fourth-section__img"></a>
             <p class="fourth-section__text">Africa Center for Rural Youth Empowerment</p>
+            <br>
+            
             </div>
             </div>
 
