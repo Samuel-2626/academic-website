@@ -3,11 +3,18 @@
     require_once "templates/header.php";
 
 ?>  
-    <main class="container">
+    <div class="container">
+        <br>
          <center><h3>Ooops Page not found!!!!</h3>
+         <br>
          <a href="index.php" class="btn-large">Click here</a>
           </center>
-    </main>
+</div>
+
+<br>
+<br>
+<br>
+<br>
 
 
 
