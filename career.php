@@ -15,19 +15,19 @@ University of Agriculture and Natural Resources, Gaborone (November 8, 2021 to d
 to date)
 </li>
                 <li>Professor, Obafemi Awolowo University, Department of Agricultural Extension and Rural Development, Ile-Ife (October 1, 2009 to date).</li>
-                <li><span>2019</span> Visiting International Extension Scholar - in - Residence, <a href="https://www.osu.edu/" target="_blank">Ohio State University, Columbus, USA <i class="fa fa-external-link"></i></a>, (November 15 - 22, 2019).</li>
-                <li>Coordinator, Pre-degree Programme & Member of Management, Centre for Distance Learning,<a href="https://oauife.edu.ng/" target="_blank"> Obafemi Awolowo University <i class="fa fa-external-link"></i></a>, Moro Campus. (October 3, 2017 to September 30, 2019).</li>
+                <li><span>2019</span> Visiting International Extension Scholar - in - Residence, <a href="https://www.osu.edu/" target="_blank">Ohio State University, Columbus, USA</a>, (November 15 - 22, 2019).</li>
+                <li>Coordinator, Pre-degree Programme & Member of Management, Centre for Distance Learning,<a href="https://oauife.edu.ng/" target="_blank"> Obafemi Awolowo University</a>, Moro Campus. (October 3, 2017 to September 30, 2019).</li>
                 <li>Visiting Professor (ECOWAS-AAU Fellowship), Department of Agricultural Economics and Extension, North West University, Mafikeng Campus, South Africa, (July 11-29, 2016).</li>
-                <li>Professor (Contract), Department of Agricultural Economics, Education & Extension, Botswana College of Agriculture,<a href="https://www.ub.bw/" target="_blank"> University of Botswana <i class="fa fa-external-link"></i></a>, Gaborone, Botswana (June 3, 2013-June 30, 2015).</li>
-                <li>Visiting Scientist (as Associate Researcher/Extension Specialist on NICAN Veg. Project) at <a href="">Cape Breton University <i class="fa fa-external-link"></i></a>, Sydney, Nova Scotia, Canada (April 28-May 18, 2013).</li>
-                <li>Visiting Researcher, <a href="https://crawforduniversity.edu.ng/crawford/" target="blank"> Crawford University <i class="fa fa-external-link"></i></a>, Igbesa, Ogun State, Nigeria. (2011-2012).</li>
-                <li>Visiting Associate Professor (Sabbatical), Department of Agricultural Economics & Extension, <a href="https://www.futa.edu.ng/" target="_blank"> Federal University of Technology, Akure <i class="fa fa-external-link"></i> </a> (2008-2009). </li>
+                <li>Professor (Contract), Department of Agricultural Economics, Education & Extension, Botswana College of Agriculture,<a href="https://www.ub.bw/" target="_blank"> University of Botswana</a>, Gaborone, Botswana (June 3, 2013-June 30, 2015).</li>
+                <li>Visiting Scientist (as Associate Researcher/Extension Specialist on NICAN Veg. Project) at <a href="">Cape Breton University</a>, Sydney, Nova Scotia, Canada (April 28-May 18, 2013).</li>
+                <li>Visiting Researcher, <a href="https://crawforduniversity.edu.ng/crawford/" target="blank"> Crawford University</a>, Igbesa, Ogun State, Nigeria. (2011-2012).</li>
+                <li>Visiting Associate Professor (Sabbatical), Department of Agricultural Economics & Extension, <a href="https://www.futa.edu.ng/" target="_blank"> Federal University of Technology, Akure</a> (2008-2009). </li>
                 <li>Reader/Associate Professor, Obafemi Awolowo University, Department of Agricultural Extension and Rural Development, Ile-Ife (October 1, 2006 - September, 2009). </li>
                 <li>Acting Head, Department of Agricultural Extension and Rural Sociology, Obafemi Awolowo University, Ile-Ife (August 1, 2006 - July 31, 2008)</li>
                 <li>Senior Lecturer, Obafemi Awolowo University, Department of Agricultural Extension and Rural Sociology, Ile-Ife (October 1, 2003 -September 30, 2006).</li>
                 <li>Lecturer I (Regrading), Obafemi Awolowo University, Department of Agricultural Extension and Rural Sociology, Ile-Ife (December 1, 1999 - September 30, 2003).</li>
                 <li>Lecturer II, Obafemi Awolowo University, Department of Agricultural Extension and Rural Sociology, Ile-Ife (March 16, 1999 - December 1, 1999).</li>
-                <li>Lecturer II, <a href="https://oouagoiwoye.edu.ng/" target="_blank"> Ogun State University <i class="fa fa-external-link"></i></a>(Now Olabisi Onabanjo University), Department of Agricultural Extension and Rural Sociology, Ago-Iwoye. (October 1, 1998 – March 14, 1999). </li>
+                <li>Lecturer II, Ogun State University (Now <a href="https://oouagoiwoye.edu.ng/" target="_blank"> Olabisi Onabanjo University</a>), Department of Agricultural Extension and Rural Sociology, Ago-Iwoye. (October 1, 1998 – March 14, 1999). </li>
                 <li>Assistant Lecturer, Ogun State University (Now Olabisi Onabanjo University), Department of Agricultural Extension and Rural Sociology, Ago-Iwoye. (February 6, 1995 – October 1, 1998).</li>
             </ol>
             <h5>Other work experience:</h5>

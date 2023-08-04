@@ -248,13 +248,13 @@
                 <li class="col s4 m6 p2"><a href="https://www.facebook.com/dixon.o.torimiro" target="blank" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="Facebook">
                     <i class="fa fa-facebook" style="color: #183a1d;"></i>
                 </a>&nbsp; Tade Torimiro</li>
-                <li class="col s4 m6 p2"><a href="#" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="This is skype">
+                <li class="col s4 m6 p2"><a href="#" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="Skype">
                  <i class="fa fa-skype" style="color: #183a1d;"></i>
                     </a> &nbsp;tade.torimiro</li>
                     <li class="col s4 m6 p2"><a href="https://www.youtube.com/channel/UCLRZxHickl4jY8MYqPM5Mpg" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="Youtube">
                     <i class="fa fa-youtube" style="color: #183a1d;"></i>
                     </a> &nbsp;Prof. Dixon Olutade Torimiro</li>
-                    <li class="col s4 m6 p2"><a href="https://www.linkedin.com/in/ACoAAAxx6fsBZG-meUGQSaV78XwIiMR2d83x7ok?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BZC8dIeh3QL6Fmo3WqAi3ZA%3D%3D" target="blank" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="LinkedIn">
+                    <li class="col s4 m6 p2"><a href="https://www.linkedin.com/in/dixon-olutade-torimiro-8a3b1059" target="blank" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="LinkedIn">
                 <i class="fa fa-linkedin" style="color: #183a1d;"></i>
                 </a> &nbsp;Professor Dixon Torimiro</li>
                 </ul>
