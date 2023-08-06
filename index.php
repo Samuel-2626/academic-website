@@ -1,5 +1,7 @@
 <?php require_once('templates/header.php') ?>
 
+<main>
+
         <div class="first-section">
             <div class="row">
                 
@@ -277,6 +279,7 @@
 
 </div>
 
+</main>
         
     
     <?php require_once 'templates/footer.php' ?>
