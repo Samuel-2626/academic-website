@@ -11,15 +11,7 @@
     --secondary-text-color: #f6c453;
 }
 
-html {
-    height: 100%;
-}
 
-body {
-    display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
 
 nav{
     background: var(--main-color);  
@@ -36,7 +28,6 @@ nav ul li {
 main{
     background-color: var(--main-color);
     color: #201d3a;
-    flex: 1 0 auto;
     
 }
 
