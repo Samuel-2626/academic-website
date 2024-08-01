@@ -322,3 +322,10 @@ list-style-type: square !important;
     border-radius: 9999px;
     background-color: var(--main-color);
 }
+
+
+/* .fa-tiktok {
+    color: #111111;
+    
+    filter: drop-shadow(2px 0px 0px #FD3E3E) drop-shadow(-2px -2px 0px #4DE8F4);
+  } */

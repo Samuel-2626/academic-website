@@ -116,7 +116,7 @@
            <h2>Resources & Books</h2>
            <hr>
            <br>
-           <p>Some of the books I have authored or co-authored.</p>
+           <h5>Some of the books I have authored or co-authored</h5>
            <div class="row">
            <br>
                 <div class="col s12 m6 l4">
@@ -158,7 +158,7 @@
                 
                 <hr>
                 <br>
-           <p>Some of the initiatives I founded or co-founded.</p>
+           <h5>Some of the initiatives I founded or co-founded</h5>
            <br>
            <br>
             <div class="row center">
@@ -198,36 +198,60 @@
 
 <br>
 
-<p>60<sup>th</sup> Birthday Celebration - May 19<sup>th</sup>, 2022</p>
+<h5>60<sup>th</sup> Birthday Celebration - May 19<sup>th</sup>, 2022</h5>
 <br>
                 
                 
                 
             <div class="row">
-                <div class="col s12 l6">
-                <iframe src="https://happy60thbirthdayprofessortorimiro.xyz/" style="border:none;" name="iframe_a" height="550px" width="100%" title="Birthday wishes from friends and family"></iframe>
+                <div class="col s12">
+                <iframe src="https://happy60thbirthdayprofessortorimiro.com/" style="border:none;" name="iframe_a" width="100%" height="400" title="Birthday wishes from friends and family"></iframe>
 
-<p><a href="https://happy60thbirthdayprofessortorimiro.xyz/" target="_blank">Birthday wishes from friends and family <i class="fa fa-external-link"></i></a></p>
+<p><a href="https://happy60thbirthdayprofessortorimiro.com/" target="_blank">Birthday wishes from friends and family <i class="fa fa-external-link"></i></a></p>
 <br>
                     
             </div>
-            <div class="col s12 l5 offset-l1">
-            <iframe src="https://www.youtube.com/embed/LF3vuaikHfg" style="border:none;" name="iframe_b" height="550px" width="100%" title="Pastor Gbenga special birthday gift to childhood friend"></iframe>
+            <div class="col s12">
+            <iframe src="https://www.youtube.com/embed/LF3vuaikHfg" style="border:none;" name="iframe_b" width="100%" height="315" title="Pastor Gbenga special birthday gift to childhood friend"></iframe>
 
-<p><a href="https://www.youtube.com/embed/LF3vuaikHfg" target="_blank">Pastor Gbenga special birthday gift to childhood friend <i class="fa fa-external-link"></i></a></p>
+<p><a href="https://www.youtube.com/watch?v=LF3vuaikHfg" target="_blank">Pastor Gbenga special birthday gift to childhood friend <i class="fa fa-external-link"></i></a></p>
             </div>
 
             </div>
 
-    <p>Daughter's wedding photographs - Nov, 2022</p>
+            <br>
+
+    <h5>Daughter's wedding photographs - Nov, 2022</h5>
     <br>
 
     <div class="row">
         <div class="col s12 m6">
-            <img src="images/daughers-wedding.jpg" alt="Daugher's wedding image" class="responsive-img">
-            <p><a href="https://drive.google.com/drive/folders/1CAjjASEjyW1A9xPfOV5EM1MCfZmLa4Ix?usp=share_link" target="_blank">See all <i class="fa fa-external-link"></i></a></p>
+            <a href="daughters-wedding-photographs.php"><img src="images/daughers-wedding.jpg" alt="Daugher's wedding image" class="responsive-img"></a> 
         </div>
     </div>
+
+    <br>
+    <h5>Queen's 60<sup>th</sup> Birthday Celebration - June 22<sup>nd</sup>, 2024</h5>
+    <br>
+
+    <div class="row">
+                <div class="col s12">
+                <iframe src="https://www.youtube.com/embed/6w1RPumsMBI?si=fYDEyQD3YhrIHw4b/" style="border:none;" name="iframe_c" width="100%" height="315" title="Mrs. Mojisola Helen Torimiro Birthday 60th Birthday Wishes"></iframe>
+
+<p><a href="https://www.youtube.com/watch?v=6w1RPumsMBI" target="_blank">Mrs. Mojisola Helen Torimiro Birthday 60th Birthday Wishes <i class="fa fa-external-link"></i></a></p>
+<br>
+                    
+            </div>
+            <div class="col s12">
+            <iframe src="https://www.youtube.com/embed/T8LHcTKyen0?si=2XrOLLq9XLDGv1AV" style="border:none;" name="iframe_d" width="100%" height="315"  title="QUEEN'S BIRTHDAY VIDEO"></iframe>
+
+<p><a href="https://www.youtube.com/watch?v=T8LHcTKyen0" target="_blank">QUEEN'S BIRTHDAY VIDEO<i class="fa fa-external-link"></i></a></p>
+            </div>
+
+            </div>
+
+            <br>
+            <br>
 
 
 </div>
@@ -247,17 +271,20 @@
            <section class="row">
                 <ul>
                 <li class="col s4 m6 p2"><a href="https://www.facebook.com/dixon.o.torimiro" target="blank" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="Facebook">
-                    <i class="fa fa-facebook" style="color: #183a1d;"></i>
+                    <i class="fab fa-facebook" style="color: #183a1d;"></i>
                 </a>&nbsp; Tade Torimiro</li>
                 <li class="col s4 m6 p2"><a href="#" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="Skype">
-                 <i class="fa fa-skype" style="color: #183a1d;"></i>
+                 <i class="fab fa-skype" style="color: #183a1d;"></i>
                     </a> &nbsp;tade.torimiro</li>
                     <li class="col s4 m6 p2"><a href="https://www.youtube.com/channel/UCLRZxHickl4jY8MYqPM5Mpg" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="Youtube">
-                    <i class="fa fa-youtube" style="color: #183a1d;"></i>
+                    <i class="fab fa-youtube" style="color: #183a1d;"></i>
                     </a> &nbsp;Prof. Dixon Olutade Torimiro</li>
                     <li class="col s4 m6 p2"><a href="https://www.linkedin.com/in/dixon-olutade-torimiro-8a3b1059" target="blank" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="LinkedIn">
-                <i class="fa fa-linkedin" style="color: #183a1d;"></i>
+                <i class="fab fa-linkedin" style="color: #183a1d;"></i>
                 </a> &nbsp;Professor Dixon Torimiro</li>
+                <li class="col s4 m6 p2"><a href="https://www.tiktok.com/@dixon.torimiro" target="blank" class="tooltipped btn-floating btn-large six-section__a" data-tooltip="TikTok">
+                <i class="fab fa-tiktok" style="color: #183a1d;"></i>
+                </a> &nbsp;Dixon Torimiro</li>
                 </ul>
                 
                 
@@ -265,7 +292,7 @@
            <br>
 
            <blockquote style="border-left-color: #183a1d;">
-      <p>Find me also on <a href="https://www.scopus.com/results/authorNamesList.uri?sort=count-f&src=al&affilName=Obafemi+Awolowo+University&sid=1bcc56bf5690a193486da1d78bd2484d&sot=al&sdt=al&sl=81&s=AUTHLASTNAME%28Torimiro%29+AND+AUTHFIRST%28Dixon%29+AND+AFFIL%28Obafemi+Awolowo+University%29&st1=Torimiro&st2=Dixon&orcidId=&selectionPageSearch=anl&reselectAuthor=false&activeFlag=true&showDocument=false&resultsPerPage=20&offset=1&jtp=false&currentPage=1&previousSelectionCount=0&tooManySelections=false&previousResultCount=0&authSubject=LFSC&authSubject=HLSC&authSubject=PHSC&authSubject=SOSC&exactAuthorSearch=false&showFullList=false&authorPreferredName=&origin=searchauthorfreelookup&affiliationId=&txGid=ae18662700adedfcf712edf9d917f31b" target="_blank">Scopus Preview <i class="fa fa-external-link"></i></a> & <a href="https://scholar.google.com/citations?hl=en&user=Htjpf2MAAAAJ" target="_blank">Google Scholar <i class="fa fa-external-link"></i></a>.</p>
+      <p>Find me also on <a href="https://www.scopus.com/results/authorNamesList.uri?sort=count-f&src=al&affilName=Obafemi+Awolowo+University&sid=1bcc56bf5690a193486da1d78bd2484d&sot=al&sdt=al&sl=81&s=AUTHLASTNAME%28Torimiro%29+AND+AUTHFIRST%28Dixon%29+AND+AFFIL%28Obafemi+Awolowo+University%29&st1=Torimiro&st2=Dixon&orcidId=&selectionPageSearch=anl&reselectAuthor=false&activeFlag=true&showDocument=false&resultsPerPage=20&offset=1&jtp=false&currentPage=1&previousSelectionCount=0&tooManySelections=false&previousResultCount=0&authSubject=LFSC&authSubject=HLSC&authSubject=PHSC&authSubject=SOSC&exactAuthorSearch=false&showFullList=false&authorPreferredName=&origin=searchauthorfreelookup&affiliationId=&txGid=ae18662700adedfcf712edf9d917f31b" target="_blank">Scopus Preview <i class="fa fa-external-link"></i></a> & <a href="https://scholar.google.com/citations?hl=en&user=Htjpf2MAAAAJ" target="_blank">Google Scholar <i class="fa fa-external-link"></i></a></p>
     </blockquote>
     <br>
            
